@@ -1,0 +1,9 @@
+{
+  "name": "Copy of أبا الحسن المتطور",
+  "description": "نظام متكامل لإدارة حلقات تحفيظ القرآن الكريم مع دعم للذكاء الاصطناعي وتحديد المواقع الجغرافية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
